@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd \"仪表盘插件\" && npm install && npm run build",
+  "outputDirectory": "仪表盘插件/dist"
+}
